@@ -1,0 +1,6 @@
+[submodule "themes/basics"]
+	path = themes/basics
+	url = https://github.com/arjunkrishnababu96/basics.git
+[submodule "shhnagumo.github.io"]
+	path = shhnagumo.github.io
+	url = https://github.com/shhnagumo/shhnagumo.github.io.git
