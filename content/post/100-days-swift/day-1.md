@@ -75,7 +75,7 @@ Imprime: Este maraton de Swift dura 100 días
 ```
 
 ### Constants
-Así como tenemos variables que pueden cambiar de valor, también existen las constantes donde una vez asignado un valor inical no puede volver cambiar;
+Así como tenemos variables que pueden cambiar de valor, también existen las constantes donde una vez asignado un valor inicial no puede volver cambiar;
 para crear una constante usamos la palabra clave `let` en lugar de `var`:
 ```
 let pi = 3.14159
@@ -92,7 +92,8 @@ let lastName: String = "Nagumo"
 
 #### Resources:
 
-* [100 Days of Swift: Day 1](https://www.hackingwithswift.com/100/1)
+* [Playground for Xcode: Day 1](https://github.com/shhnagumo/swift-playground/blob/master/0-100-days-of-swift/1-day.swift)
+* [Hacking With Swift: Day 1](https://www.hackingwithswift.com/100/1)
 * [Type Safe & Type Inference](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#ID322)
 * [Type Annotations](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#ID310)
 * [Types & Operations](https://www.raywenderlich.com/6364-swift-tutorial-part-2-types-and-operations)
