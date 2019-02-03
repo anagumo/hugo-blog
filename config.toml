@@ -1,6 +1,7 @@
 baseURL = "http://shhnagumo.github.io/"
 languageCode = "en-us"
 title = "Ariana Nagumo"
+publishDir = "shhnagumo.github.io"
 
 [params]
     author = "I make apps"
