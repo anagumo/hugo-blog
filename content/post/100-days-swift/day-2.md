@@ -1,6 +1,6 @@
 ---
 title: "100 Days of Swift: Day 2"
-date: 2019-02-02T12:36:25-06:00
+date: 2019-03-09T12:36:25-06:00
 draft: false
 ---
 
@@ -50,7 +50,7 @@ credits["Main Actor", default: "Unknown"] // => Yalitza Aparicio
 ```
 
 ### Tuples
-Existe otro tipo de colección en el mundo de Swift llamada Tupla, éstas agrupan multiples valores que pueden ser de cualquier tipo y 
+Existe otro tipo de colección en el mundo de Swift llamada Tupla, éstas agrupan múltiples valores que pueden ser de cualquier tipo y 
 no tienen que ser del mismo tipo entre ellas \o/
 ```
 let date = (year: 1990, month: 10, day: 13)

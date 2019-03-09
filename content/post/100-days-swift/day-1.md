@@ -1,6 +1,6 @@
 ---
 title: "100 Days of Swift: Day 1"
-date: 2019-02-01T10:40:40-06:00
+date: 2019-03-08T10:40:40-06:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 
 Este es el gran inicio del maratón [100 Days of Swift](https://hackingwithswift.com/100), nunca antes intenté hacer un reto
 similar pero la idea de Paul Hudson es simplemente maravillosa, usualmente uno ve a personas haciendo 100 días de algo 
-pero no a nivel de comunidad, así que mi compromismo social incluye un post diario en este blog y una breve cápsula semanal en Youtube;
+pero no a nivel de comunidad, así que mi compromiso social incluye un post diario en este blog y una breve cápsula semanal en Youtube;
 si te has involucrado y quieres compartir tu experiencia escríbeme un [tweet](https://twitter.com/gowtski).
 
 ### Variables
@@ -20,7 +20,7 @@ greeting = "Goodbye, cruel world!"
 
 Swift es un lenguage Type-Safe, por lo cual se asegura de que uses tus variables de forma apropiada de acuerdo a los valores que haz
 guardado en ellas, en el caso de la variable `greeting` no puedes cambiar su valor a un número literal pues previamente haz guardado 
-una serie de carácteres.
+una serie de caracteres.
 ```
 greeting = 13 // Cannot assign value of type 'Int' to type 'String'
 ```
@@ -65,7 +65,7 @@ var isFebruary = true
 
 ### String Interpolation
 Hasta entonces hemos creado variables independientes, que no pueden ser mezcladas entre si debido a su tipo, pero existe una forma
-de darle utlidad a sus valores creando un nuevo `String`. Esta técnica se llama `String Interpolation` y sólo hace falta encerrar cada variable entre
+de darle útlidad a sus valores creando un nuevo `String`. Esta técnica se llama `String Interpolation` y sólo hace falta encerrar cada variable entre
 paréntesis incluyendo `\` al inicio para incluir su valor:
 ```
 var numberOfDays = 100
