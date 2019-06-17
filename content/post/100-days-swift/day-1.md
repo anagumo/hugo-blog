@@ -1,7 +1,7 @@
 ---
 title: "100 Days of Swift: Day 1"
 date: 2019-03-08T10:40:40-06:00
-draft: false
+draft: true
 ---
 
 * Scope:  Variables, Simple Data Types & String Interpolation

@@ -1,7 +1,7 @@
 ---
 title: "100 Days of Swift: Day 2"
 date: 2019-03-09T12:36:25-06:00
-draft: false
+draft: true
 ---
 
 * Scope: Arrays, dictionaries, sets and enums.
